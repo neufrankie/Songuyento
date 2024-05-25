@@ -1,0 +1,14 @@
+E:\Codegym\c# start\Songuyento\bin\Debug\net8.0\Songuyento.exe
+E:\Codegym\c# start\Songuyento\bin\Debug\net8.0\Songuyento.deps.json
+E:\Codegym\c# start\Songuyento\bin\Debug\net8.0\Songuyento.runtimeconfig.json
+E:\Codegym\c# start\Songuyento\bin\Debug\net8.0\Songuyento.dll
+E:\Codegym\c# start\Songuyento\bin\Debug\net8.0\Songuyento.pdb
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.AssemblyInfo.cs
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.dll
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\refint\Songuyento.dll
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.pdb
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\Songuyento.genruntimeconfig.cache
+E:\Codegym\c# start\Songuyento\obj\Debug\net8.0\ref\Songuyento.dll
